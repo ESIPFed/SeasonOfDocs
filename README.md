@@ -11,6 +11,6 @@ COR would like help 1) honing its [documentation](https://github.com/mmisw/mmior
 
 Check out our ideas page [here](https://github.com/ESIPFed/SeasonOfDocs/issues).
 
-*[ESIP](https://esipfed.org) is funded by NASA, NOAA, and USGS and supports the development of visionary Earth science technologies that advance our knowledge of Earth system science. 
+*[ESIP](https://esipfed.org) is funded by NASA, NOAA, and USGS and supports the development of visionary Earth science technologies that advance our knowledge of Earth system science.*
 
 
