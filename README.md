@@ -1,6 +1,6 @@
 2019 Google Season of Docs
 ===================================
-
+<img src="https://developers.google.com/season-of-docs/images/logo/SeasonofDocs_Logo_SecondaryGrey_300ppi.png" align="right" width="300" />
 <img src="http://cor.esipfed.org/esip_cor_logo.png" align="right" width="300" />
 
 The [ESIP Community Ontology Repository (COR)](https://esipfed.org), is a community platform to manage and exchange terms and vocabularies relevant to the Earth Sciences.  
